@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Архітектура\лаб8\Source.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  лаб8.vcxproj -> D:\Архітектура\лаб8\Debug\лаб8.exe
