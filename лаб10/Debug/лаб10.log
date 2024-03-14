@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Архітектура\лаб10\Source.cpp(10,20): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Архітектура\лаб10\Source.cpp(10,20): warning C4309: 'initializing': truncation of constant value
+D:\Архітектура\лаб10\Source.cpp(10,39): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Архітектура\лаб10\Source.cpp(10,39): warning C4309: 'initializing': truncation of constant value
+D:\Архітектура\лаб10\Source.cpp(18,3): error C2415: improper operand type
