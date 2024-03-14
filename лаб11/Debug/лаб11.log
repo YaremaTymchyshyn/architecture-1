@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Архітектура\лаб11\Source.cpp(55,6): warning C4102: 'CheckIfMin': unreferenced label
+D:\Архітектура\лаб11\Source.cpp(129,4): warning C4102: 'loopEnd': unreferenced label
+  лаб11.vcxproj -> D:\Архітектура\лаб11\Debug\лаб11.exe
